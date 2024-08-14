@@ -9,8 +9,7 @@
 3. [Funciones de Agregación](#-funciones-de-agregación)
 4. [Consultas Avanzadas](#-consultas-avanzadas)
 5. [Manipulación de Datos](#-manipulación-de-datos)
-6. [Ejercicios Prácticos](#-ejercicios-prácticos)
-7. [Recursos Adicionales](#-recursos-adicionales)
+6. [Recursos Adicionales](#-recursos-adicionales)
 
 ---
 
